@@ -10,5 +10,6 @@ while opcao=="I" or opcao=="P" or opcao=="E" or opcao=="L" :
         listar(usuarios)
         opcao = perguntar()
 
+
 else:
         print("script parou, clique em executar ativar o script")
